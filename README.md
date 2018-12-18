@@ -1,4 +1,4 @@
 
 Catalyst windows executables.
 
-Speial thanks to Sosuke.
+Special thanks to Sosuke.
